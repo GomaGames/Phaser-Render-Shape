@@ -1,0 +1,9 @@
+{
+  "globals" : {
+    "window" : true,
+    "RenderShape" : true,
+    "Phaser" : true
+  },
+  "undef" : true,
+  "unused" : true
+}
